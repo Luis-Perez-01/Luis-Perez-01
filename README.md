@@ -5,8 +5,11 @@
 </div>
 
 
-## Hola, mi nombre es Luis 👋
+## Luis Pérez 👋
 Pasión por aprender y motivación para crecer.
+
+Ingeniero en Desarrollo y Gestión de Software, enfocado en desarrollo web aunque también con experiencia en redes y soporte.
+Apasionado por aprender y comprometido con crecer profesionalmente en proyectos digitales.
 
 <br/>
 
