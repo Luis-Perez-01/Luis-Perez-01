@@ -1,8 +1,9 @@
 <div align="center">
    
-<img width="200" src="https://avatars.githubusercontent.com/u/67983505?v=4"/>
+<img src="/Banner.png" />
 
 </div>
+
 
 ## Hola, mi nombre es Luis 👋
 Pasión por aprender y motivación para crecer.
