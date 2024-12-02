@@ -6,10 +6,9 @@
 
 
 ## Luis Pérez 👋
-Pasión por aprender y motivación para crecer.
+¡Hola! 👋 Gracias por visitar mi perfil. Soy diseñador 🎨, programador 💻 y editor de videos 🎬. Me apasiona realizar diversas actividades y siempre busco mejorar mis habilidades y aprender cosas nuevas 📚. Actualmente, trabajo como programador y editor de videos, y además, estoy desarrollando dos proyectos personales 🚀.
 
-Ingeniero en Desarrollo y Gestión de Software, enfocado en desarrollo web aunque también con experiencia en redes y soporte.
-Apasionado por aprender y comprometido con crecer profesionalmente en proyectos digitales.
+El primero se llama Integrasoft 💼, una consultoría de TI y marketing digital 📈 enfocada en apoyar a pequeños negocios a digitalizarse y crecer en el entorno digital 🌐. El segundo proyecto es VODify 🎥, un servicio de edición de videos diseñado para streamers 🎮, que transforma sus momentos destacados en contenido editado y listo para compartir 📲.
 
 <br/>
 
